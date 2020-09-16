@@ -1,0 +1,20 @@
+{
+  "name": "SyncC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "multer": "^1.4.2",
+    "node-fetch": "^2.6.1",
+    "node-watch": "^0.6.4"
+  }
+}
